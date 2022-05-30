@@ -1,0 +1,59 @@
+{
+    "assessments": [
+      {
+        "id": 1,
+        "customerName": "SERGIOS PETRIDIS",
+        "customerEmail": "19238471029@gmail.com",
+        "customerID": "ALPHA-00332",
+        "customerPhoto": "https://wilco-elp.com/user/photos/1643779754.png",
+        "assessmentDate": "01 Feb 2022",
+        "assessmentTime": "14:30",
+        "elpLevel": "5",
+        "status": "completed"
+      },
+      {
+        "id": 2,
+        "customerName": "Shaaz Haneef Shaaz Haneef Shaaz Haneef",
+        "customerEmail": "19238471029@gmail.com",
+        "customerID": "ALPHA-00332",
+        "customerPhoto": "https://wilco-elp.com/user/photos/1643622870.jpeg",
+        "assessmentDate": "01 Feb 22",
+        "assessmentTime": "14:30",
+        "elpLevel": "5",
+        "status": "completed"
+      },
+          {
+        "id": 3,
+        "customerName": "Hassan Ali Mohamed Hatim",
+        "customerEmail": "19238471029@gmail.com",
+        "customerID": "ALPHA-00326",
+        "customerPhoto": "https://wilco-elp.com/user/photos/1642761889.png",
+        "assessmentDate": "28 Feb 22",
+        "assessmentTime": "10:00",
+        "elpLevel": "5",
+        "status": "completed"
+      },
+      {
+        "id": 4,
+        "customerName": "Shaaz Haneef Shaaz",
+        "customerEmail": "19238471029@gmail.com",
+        "customerID": "ALPHA-00332",
+        "customerPhoto": "https://wilco-elp.com/user/photos/1643622870.jpeg",
+        "assessmentDate": "31 Feb 22",
+        "assessmentTime": "14:30",
+        "elpLevel": "5",
+        "status": "completed"
+        },
+        {
+          "id": 5,
+          "customerName": "Abdul Razzaque Goilkar",
+          "customerEmail": "raza@gmail.com",
+          "customerID": "ALPHA-00332",
+          "customerPhoto": "https://wilco-elp.com/user/photos/1643622870.jpeg",
+          "assessmentDate": "31 Feb 22",
+          "assessmentTime": "14:30",
+          "elpLevel": "5",
+          "status": "pending"
+          }
+    ]
+  }
